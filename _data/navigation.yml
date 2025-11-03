@@ -9,13 +9,13 @@
 
 main:
   - title: "Project Portfolio"
-    url: /portfolio/
+    url: https://vtbhat.github.io/portfolio/
 
   - title: "Publications"
-    url: /publications/
+    url: https://vtbhat.github.io/publications/
     
   - title: "CV"
-    url: /cv/
+    url: https://vtbhat.github.io/cv/
     
   # - title: "CV"
   #   url: /cv-json/
